@@ -1,4 +1,6 @@
-# study_notes
-  **1. Write in my own words**
-  **2. Highlight or underline important information.**
-  **3. To review notes regularly**
+# Taking important notes while reading
+
+
+  **1. Write in my own words** <br>
+  **2. Highlight or underline important information.** <br>
+  **3. To review notes regularly** <br>
