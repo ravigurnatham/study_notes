@@ -1,1 +1,5 @@
 Introduction to spark
+
+1. When thinking of scale, we can’t help but think of the ability of Google’s search engine to index and search the world’s data on the internet at lightning speed. <br>
+2. Neither traditional storage systems such as relational database management systems (RDBMSs) nor imperative ways of programming were able to handle the scale at which Google wanted to build and search the internet’s indexed documents. <br>
+3.Spark focuses on its fast, parallel computation engine rather than on storage.
